@@ -52,4 +52,4 @@ Create a .env file in the root of the project with the following content:
 
 ## Contact
 
-For any questions, please contact [shtundamykyta@gmail.com](mailto:shtundamykyta@gmail.com).
+For any questions, please contact [andress.fman@gmail.com](mailto:andress.fman@gmail.com).
